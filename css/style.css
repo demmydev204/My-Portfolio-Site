@@ -64,8 +64,21 @@ body {
     justify-content: flex-start;
 }
 
+
 #hero .herocontent h1 {
     color: white;
+    font-family: var(--HEADING-FONT);
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+#hero .herocontent p {
+    color: white;
+    font-weight: 400;
+    font-size: 1rem;
+    text-align: left;
+    width: 70%;
+    padding: .3em;
 }
 
 
